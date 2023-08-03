@@ -24,6 +24,9 @@ https://www.onlinegdb.com/
 **HTML Color Codes:**<br>
 https://htmlcolorcodes.com/
 
+**HYML Text Tutorial Link:**<br>
+https://www.w3schools.com/html/default.asp
+
 **Selenium Text Tutorial Link:**<br>
 https://www.javatpoint.com/selenium-tutorial<br>
 https://pythonspot.com/category/selenium/<br>
