@@ -11,8 +11,8 @@ https://www.youtube.com/watch?v=UTqOXwAi1pE
 **How to uninstall Anaconda completely from Windows 10:**<br>
 https://www.youtube.com/watch?v=OUkHXMwu-JY
 
-**Diagram Making Site Link:**<br>
-https://app.diagrams.net/
+**For Diagram Making:**<br>
+https://app.diagrams.net/?libs=general;uml#
 
 **Online Python Editors:**<br>
 https://onecompiler.com/<br>
