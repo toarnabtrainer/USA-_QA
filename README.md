@@ -3,7 +3,8 @@
 https://www.mlsu.ac.in/econtents/16_EBOOK-7th_ed_software_engineering_a_practitioners_approach_by_roger_s._pressman_.pdf
 
 **Python Download Link:**<br>
-**Anaconda Download Link:** https://www.anaconda.com/products/distribution
+**Anaconda Download Link:** <br>
+https://www.anaconda.com/products/distribution
 
 **How to Install Anaconda on Windows 10 (2022):**<br>
 https://www.youtube.com/watch?v=UTqOXwAi1pE
