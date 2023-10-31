@@ -16,7 +16,16 @@ https://www.youtube.com/watch?v=UTqOXwAi1pE
 https://www.youtube.com/watch?v=OUkHXMwu-JY
 
 **For Diagram Making:**<br>
-https://app.diagrams.net/?libs=general;uml#
+https://app.diagrams.net/
+
+**Tutorial Link for Draw.io:**<br>
+https://www.youtube.com/watch?v=Em_8IeJBmsQ&list=PLX6xdk86h_0xpW82Q0YkdN6xpHa6hvHjO
+
+**draw.io Desktop Version Download Link:**<br>
+https://www.drawio.com/blog/diagrams-offline
+
+**YouTube UML Tutorial Link:**<br>
+https://www.youtube.com/watch?v=gUEizau0-UQ&list=PLWPirh4EWFpF9Gbnu4_DdF4ITHSN6MSsk
 
 **Online Python Editors:**<br>
 https://onecompiler.com/<br>
