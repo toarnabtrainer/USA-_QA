@@ -54,9 +54,9 @@ https://htmlcolorcodes.com/
 
 **HTML Text/Video Tutorial Link:**<br>
 https://www.w3schools.com/html/default.asp<br>
-https://www.youtube.com/watch?v=BsDoLVMnmZs
+https://www.youtube.com/watch?v=qz0aGYrrlhU
 
-**Example User Stories:**<br>
+**Sample User Stories:**<br>
 https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf
 
 **Selenium Text Tutorial Link:**<br>
