@@ -59,6 +59,9 @@ https://www.youtube.com/watch?v=qz0aGYrrlhU
 **Sample User Stories:**<br>
 https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf
 
+**Scrum Guide PDF:**<br>
+https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100
+
 **Selenium Text Tutorial Link:**<br>
 https://www.javatpoint.com/selenium-tutorial<br>
 https://pythonspot.com/category/selenium/<br>
