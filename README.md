@@ -16,7 +16,7 @@ https://www.microsoft.com/en-in/microsoft-365/project/compare-microsoft-project-
 
 **Python Download Link:**<br>
 **Anaconda Download Link:** <br>
-https://www.anaconda.com/download-success
+https://www.anaconda.com/download
 
 **How to Install Anaconda on Windows 10 (2022):**<br>
 https://www.youtube.com/watch?v=UTqOXwAi1pE
