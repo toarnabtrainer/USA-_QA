@@ -98,6 +98,12 @@ https://youtube.com/playlist?list=PL6AdzyjjD5HCqilwLbXB-UEYCg5LopFPA
 
 <hr>
 
+## HTML Classwork - Class Routine
+
+![image](https://github.com/toarnabtrainer/USA_QA/assets/111301975/1da1f9f2-4cae-4fc2-9243-c81e83148a5e)
+
+<hr>
+
 **Selenium Sample Classwork Project:**<br> 
 https://drive.google.com/drive/folders/19kPZUBzevRacCTadz-3O40waZFm_rqsU?usp=sharing
 
