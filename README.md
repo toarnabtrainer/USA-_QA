@@ -143,7 +143,7 @@ https://in.pinterest.com/meeraacademy/project-uml-diagram/
 
 <hr>
 
-## Python Tutorial:
+# Python Tutorial:
 
 ### Features of Python
 Python is a popular high-level programming language that is used for various purposes such as web development, data analysis, artificial intelligence, scientific computing, and more. Some of the key features of Python include:
