@@ -62,6 +62,9 @@ https://htmlcolorcodes.com/
 https://www.w3schools.com/html/default.asp<br>
 https://www.youtube.com/watch?v=qz0aGYrrlhU
 
+**User Registration Form Design Using HTML:**<br>
+https://www.tutorialstonight.com/online-html-editor?p=html&q=registration-form-in-html-2
+
 **Sample User Stories:**<br>
 https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf
 
