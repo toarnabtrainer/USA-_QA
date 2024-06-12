@@ -139,7 +139,7 @@ https://in.pinterest.com/meeraacademy/project-uml-diagram/
 
 ## HTML Classwork - Class Routine
 
-![image](https://github.com/toarnabtrainer/USA_QA/assets/111301975/1da1f9f2-4cae-4fc2-9243-c81e83148a5e)
+![image](https://github.com/toarnabtrainer/USA_QA/assets/111301975/82fbf7e9-fd0c-4e6e-90b0-7ea5f4d21dc4)
 
 <hr>
 
