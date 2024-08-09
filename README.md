@@ -79,6 +79,9 @@ https://www.youtube.com/watch?v=qz0aGYrrlhU
 **User Registration Form Design Using HTML:**<br>
 https://www.tutorialstonight.com/online-html-editor?p=html&q=registration-form-in-html-2
 
+**The Biggest and Best Library of Open-Source Web Components:**
+https://fontawesome.com/search
+
 <hr>
 
 ## Chapter-5 - Selenium Resources:
