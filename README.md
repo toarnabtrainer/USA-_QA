@@ -104,7 +104,7 @@ https://drive.google.com/drive/folders/19kPZUBzevRacCTadz-3O40waZFm_rqsU?usp=sha
 * Login your class from your system (Desktop/Laptop) and not from your mobile
 
 **Error Fixing Steps for Mac OS:** <br>
-https://timonweb.com/misc/fixing-error-chromedriver-cannot-be-opened-because-the-developer-cannot-be-verified-unable-to-launch-the-chrome-browser-on-mac-os/ <br>
+https://timonweb.com/misc/fixing-error-chromedriver-cannot-be-opened-because-the-developer-cannot-be-verified-unable-to-launch-the-chrome-browser-on-mac-os/ <br> <br>
 https://stackoverflow.com/questions/60362018/macos-catalinav-10-15-3-error-chromedriver-cannot-be-opened-because-the-de
 
 <hr>
