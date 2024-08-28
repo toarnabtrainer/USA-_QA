@@ -156,6 +156,12 @@ https://in.pinterest.com/meeraacademy/project-uml-diagram/
 
 <hr>
 
+## Towards Growth and Towards Success
+
+![image](https://github.com/user-attachments/assets/078e5be0-8bfb-457b-8864-4c9fc4fcedf9)
+
+<hr>
+
 # Python Tutorial:
 
 ### Features of Python
